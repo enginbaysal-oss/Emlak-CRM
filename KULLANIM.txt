@@ -1,0 +1,17 @@
+EMLAK CRM
+=========
+
+Kurulum:
+1. emlak_crm.html dosyasını Chrome veya Edge ile açın.
+2. Müşteri kayıtları tarayıcıda cihaz üzerinde saklanır.
+3. Veri İşlemleri > Yedeği İndir ile JSON yedeği alın.
+4. Diğer cihazda Veri İşlemleri > Yedek İçe Aktar ile aktarın.
+
+İlan linkleri:
+- İlan adı | https://... formatında ekleyebilirsiniz.
+- Sadece https://... şeklinde URL de eklenebilir.
+- Alıcıya sunulan ilanların "İlanı Aç" düğmesi aktiftir.
+
+Not:
+Bu sürüm bulut veritabanı kullanmaz. Cihazlar arası senkronizasyon JSON yedeği
+ile yapılır.
